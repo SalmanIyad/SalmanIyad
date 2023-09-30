@@ -19,7 +19,7 @@
 <br/>
 
 <p align="center">
-  🌱 Currently diving into <b>Next.js</b><br>
+  🌱 <b>ReactJs & NextJs</b> Developer<br>
   📫 Reach me at <b>eng.salmaniyad@gmail.com</b><br>
    Fun ⚡ fact: <b>I love learning everything about one thing :)</b>
 </p>
@@ -31,21 +31,14 @@
 <!--
 <img src="./profile-night-rainbow.svg"/>
 -->
-
 <br/>
-
 <div align="center">
-  <img align="center" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px>
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaniyad&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" />
 </div>
-
+<br/>
 <div align="center">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salmaniyad&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaniyad&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" />
-</div>
 
 
