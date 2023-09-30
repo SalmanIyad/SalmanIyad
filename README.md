@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center" style="color: white;">Salman Iyad</h1>
-  <h3 align="center" style="color: white;">NextJs Web Developer</h3>
+  <p align="center" style="color: white; font-size: '18px';">NextJs Web Developer</p>
 </div>
 
 <!--
