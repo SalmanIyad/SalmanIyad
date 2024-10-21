@@ -1,10 +1,11 @@
 <!-- Centered Title and Subtitle -->
 <h1 align="center" style="color: white;">Salman Iyad</h1>
-<h3 align="center" style="color: white;">🌱 Next.js & React.js Developer</h3>
+<h3 align="center" style="color: white;">🌱 Web Developer</h3>
 
 <!-- Contact Information Section with Interactive Badges -->
 <p align="center">
   📫 Reach me at: <a href="mailto:salman.iyad@ieee.org"><b>Salman.Iyad@ieee.org</b></a> <br>
+    <a href="salmaniyad.vercel.app"><b>SalmanIyad.vercel.app</b></a><br>
   ⚡ Fun Fact: <b>I love learning Everything about Something :)</b>
 </p>
 <p align="center">
@@ -15,7 +16,12 @@
     <img src="https://img.shields.io/badge/GitHub-SalmanIyad-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
-
+<!-- Codewars Badge  -->
+<p align="center">
+  <a href="https://www.codewars.com/users/SalmanIyad" style="text-decoration: none;">
+    <img src="https://www.codewars.com/users/SalmanIyad/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 <!-- Wakatime and Profile Views -->
 <p align="center">
   <a href="https://wakatime.com/@8bfe825c-8d08-480c-b144-2db0d5ec5057">
