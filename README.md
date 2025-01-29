@@ -1,89 +1,66 @@
-<!-- Centered Title and Subtitle -->
-<h1 align="center" style="color: white;">Salman Iyad</h1>
-<h3 align="center" style="color: white;">🌱 Web Developer</h3>
+<!-- 🔥 Ultimate Portfolio-Style README for GitHub -->
 
-<!-- Contact Information Section with Interactive Badges -->
+<h1 align="center" style="color: white; font-size: 3rem; font-weight: bold;">Salman Iyad 🚀</h1>
+<h3 align="center" style="color: #f39c12; font-size: 1.5rem;">Full-Stack Web Engineer 💻 | Code Alchemist ⚡</h3>
+
+---
+
+<!-- 🚀 Animated Avatar -->
 <p align="center">
-  📫 Reach me at: <a href="mailto:salman.iyad@ieee.org"><b>Salman.Iyad@ieee.org</b></a> <br>
-    <a href="salmaniyad.vercel.app"><b>SalmanIyad.vercel.app</b></a><br>
-  ⚡ Fun Fact: <b>I love learning Everything about Something :)</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Salman's Avatar" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.7);" />
+</p>
+
+<!-- 🌍 Social & Contact Section -->
+<p align="center" style="font-size: 1.2rem;">
+  📫 <strong>Contact:</strong> <a href="mailto:salman.iyad@ieee.org" style="color: #3498db; font-weight: bold;">Salman.Iyad@ieee.org</a> | 
+  <a href="https://salmaniyad.vercel.app" style="color: #27ae60; font-weight: bold;">Portfolio</a> | 
+  <a href="https://salmans-digital-space.vercel.app" style="color: #27ae60; font-weight: bold;">My Digital Space</a>
 </p>
 <p align="center">
-  <a href="mailto:salman.iyad@ieee.org" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-Salman.Iyad@ieee.org-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://github.com/SalmanIyad" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-SalmanIyad-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
-<!-- Codewars Badge  -->
-<p align="center">
-  <a href="https://www.codewars.com/users/SalmanIyad" style="text-decoration: none;">
+  <a href="https://www.codewars.com/users/SalmanIyad">
     <img src="https://www.codewars.com/users/SalmanIyad/badges/large" alt="Codewars Badge" />
   </a>
 </p>
-<!-- Wakatime and Profile Views -->
-<p align="center">
-  <a href="https://wakatime.com/@8bfe825c-8d08-480c-b144-2db0d5ec5057">
-    <img src="https://wakatime.com/badge/user/8bfe825c-8d08-480c-b144-2db0d5ec5057.svg" alt="Wakatime Stats">
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=SalmanIyad&style=for-the-badge" alt="Profile Views Counter" />
-</p>
 
-<!-- Skills Section with Hover Effects -->
+---
+
+<!-- 🔥 Skills Showcase with Animated Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,redux,react,nextjs,mongodb,mysql,fastapi,tailwind,sass,materialui,threejs,vercel,pnpm,vite,bun,vscode,postman,figma,md,notion,prisma,firebase,linux&perline=8" alt="Tech Stack Icons" style="transition: transform 0.2s;"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,redux,react,nextjs,mongodb,mysql,fastapi,tailwind,sass,materialui,threejs,vercel,pnpm,vite,bun,vscode,postman,figma,md,notion,prisma,firebase,linux&perline=8" alt="Tech Stack" style="filter: drop-shadow(2px 2px 5px rgba(255, 165, 0, 0.8));" />
   </a>
 </p>
 
-<!-- GitHub Streak Stats -->
+---
+
+<!-- 🔥 GitHub Stats & Streaks -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanIyad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Salman's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanIyad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Streak" />
 </p>
 
-<br/>
-
-<!-- Signature GIF with Animation -->
-<p align="center">
-    <img src="https://gidigi.com/cdn/love.gif" alt="Signature GIF" width="250" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" />
-</p>
-
-<br/>
-
-<!-- GitHub Stats and Top Languages -->
+<!-- 📊 Top Languages & Contributions -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaniyad&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" alt="Top Languages" />
 </div>
 
-<br/>
-
-<!-- Achievements and Contributions -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmanIyad&show_icons=true&theme=radical&count_private=true" alt="Contribution Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmanIyad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </div>
 
-<br/>
+---
 
-<!-- Trophies Section with Tooltip for Achievements -->
+<!-- 🏆 Trophies & Achievements -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SalmanIyad&theme=algolia&no-frame=true&no-bg=true&column=7&row=1" alt="Trophies" title="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SalmanIyad&theme=algolia&no-frame=true&no-bg=true&column=7&row=1" alt="GitHub Trophies" />
 </p>
 
-<br/>
+---
 
-
-<!-- Code Activity Graph -->
+<!-- 🎉 Fun Signature GIF -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanIyad&bg_color=0d0d0d&color=ff97bf&line=79ff97&point=e05397&area_color=191919&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://gidigi.com/cdn/love.gif" alt="Signature GIF" width="250" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<br/>
+---
 
-<!-- Featured Repository with Link -->
-<p align="center">
-  <a href="https://github.com/SalmanIyad/Amazon-Clone" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SalmanIyad&repo=Amazon-Clone&theme=radical" alt="Amazon-Clone Repository" />
-  </a>
-</p>
+<h4 align="center">✨ "Keep Learning, Keep Growing!" ✨</h4>
