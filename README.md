@@ -1,34 +1,35 @@
-<!-- 🔥 Ultimate Portfolio-Style README for GitHub -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi,%20I'm%20Salman%20Abualhin%20👋&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&strokeWidth=2&stroke=fff&fontSize=45&fontAlignY=46)
 
-<h1 align="center" style="color: white; font-size: 3rem; font-weight: bold;">Salman Iyad 🚀</h1>
-<h3 align="center" style="color: #f39c12; font-size: 1.5rem;">Full-Stack Web Engineer 💻 | Code Alchemist ⚡</h3>
-
----
-
-<!-- 🚀 Animated Avatar -->
+<h1 align="center" style="color: white; font-size: 3rem; font-weight: bold;">Full-Stack Web Engineer 💻 | Code Alchemist ⚡</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Salman's Avatar" style="border-radius: 50%; box-shadow: 0px 0px 15px rgba(255, 165, 0, 0.7);" />
-</p>
-
-<!-- 🌍 Social & Contact Section -->
-<p align="center" style="font-size: 1.2rem;">
-  📫 <strong>Contact:</strong> <a href="mailto:salman.iyad@ieee.org" style="color: #3498db; font-weight: bold;">Salman.Iyad@ieee.org</a> | 
-  <a href="https://salmaniyad.vercel.app" style="color: #27ae60; font-weight: bold;">Portfolio</a> | 
-  <a href="https://salmans-digital-space.vercel.app" style="color: #27ae60; font-weight: bold;">My Digital Space</a>
-</p>
-<p align="center">
+  <a href="https://www.github.com/SalmanIyad">
+    <img src="https://komarev.com/ghpvc/?username=salmaniyad&label=Profile%20views&color=0e75b6&style=flat" alt="salmaniyad" /> 
+  </a>
   <a href="https://www.codewars.com/users/SalmanIyad">
-    <img src="https://www.codewars.com/users/SalmanIyad/badges/large" alt="Codewars Badge" />
+    <img src="https://www.codewars.com/users/SalmanIyad/badges/small" alt="Codewars Badge" />
   </a>
 </p>
+<!-- 🎉 Fun Signature GIF -->
+<img align="right" src="https://gidigi.com/cdn/love.gif" alt="Code GIF" width="300" />
+
+<br style="height: 40px" />
+
+<!-- 🌍 Social & Contact Section -->
+- 🚀 I’m currently working on ***Web Application Development***
+
+- 💬 Ask me about ***Web Development & Problem solving***
+
+- 📫 How to ***Reach Me*** <a href="mailto:salman.iyad@ieee.org" style="color: #3498db; font-weight: bold;">Salman.Iyad@ieee.org</a> ***Or*** <a href="mailto:eng.salmaniyad@gmail.com" style="color: #3498db; font-weight: bold;">eng.salmaniyad@gmail.com</a> 
+
+- 🕸️ Check out ***My Portfolio*** <a href="https://salmaniyad.vercel.app" style="color: #27ae60; font-weight: bold;">Portfolio</a> ***Or*** <a href="https://salman.is-a.dev" style="color: #27ae60; font-weight: bold;">My Digital Space</a>
+
+<br style="height: 40px" />
 
 ---
 
 <!-- 🔥 Skills Showcase with Animated Icons -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,redux,react,nextjs,mongodb,mysql,fastapi,tailwind,sass,materialui,threejs,vercel,pnpm,vite,bun,vscode,postman,figma,md,notion,prisma,firebase,linux&perline=8" alt="Tech Stack" style="filter: drop-shadow(2px 2px 5px rgba(255, 165, 0, 0.8));" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,electron,htmx,redux,nodejs,express,nestjs,mongodb,appwrite,postgres,mysql,prisma,firebase,fastapi,aws,gcp,docker,tailwind,sass,materialui,bootstrap,threejs,vercel,heroku,babel,webpack,npm,yarn,pnpm,vite,bun,vscode,webstorm,vim,git,github,postman,figma,md,notion,devto,linkedin,windows,linux,ubuntu,arch,php,java,cpp,c&perline=11" alt="Tech Stack" />
 </p>
 
 ---
@@ -38,15 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanIyad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GitHub Streak" />
 </p>
 
-<!-- 📊 Top Languages & Contributions -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaniyad&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmanIyad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
 ---
 
 <!-- 🏆 Trophies & Achievements -->
@@ -54,13 +46,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SalmanIyad&theme=algolia&no-frame=true&no-bg=true&column=7&row=1" alt="GitHub Trophies" />
 </p>
 
----
-
-<!-- 🎉 Fun Signature GIF -->
-<p align="center">
-    <img src="https://gidigi.com/cdn/love.gif" alt="Signature GIF" width="250" style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
-</p>
-
----
-
-<h4 align="center">✨ "Keep Learning, Keep Growing!" ✨</h4>
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=🔻%20Check%20Out%20My%20Pinned%20Repos%20🔻&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=36&fontAlignY=71&section=footer)
