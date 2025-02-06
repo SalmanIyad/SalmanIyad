@@ -3,7 +3,7 @@
 <h1 align="center" style="color: white; font-size: 3rem; font-weight: bold;">Full-Stack Web Engineer 💻 | Code Alchemist ⚡</h1>
 <p align="center">
   <a href="https://www.github.com/SalmanIyad">
-    <img src="https://komarev.com/ghpvc/?username=salmaniyad&label=Profile%20views&color=0e75b6&style=flat" alt="salmaniyad" /> 
+    <img src="https://komarev.com/ghpvc/?username=salmaniyad&label=Profile%20views&color=blue&style=flat-square" alt="salmaniyad" /> 
   </a>
   <a href="https://www.codewars.com/users/SalmanIyad">
     <img src="https://www.codewars.com/users/SalmanIyad/badges/small" alt="Codewars Badge" />
