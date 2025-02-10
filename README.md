@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi,%20I'm%20Salman%20Abualhin%20👋&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&strokeWidth=2&stroke=fff&fontSize=45&fontAlignY=46)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi,%20I'm%20Salman%20Abualhin%20👋&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=45&fontAlignY=42)
 
 <h1 align="center" style="color: white; font-size: 3rem; font-weight: bold;">Full-Stack Web Engineer 💻 | Code Alchemist ⚡</h1>
 <p align="center">
@@ -19,9 +19,11 @@
 
 - 💬 Ask me about ***Web Development & Problem solving***
 
-- 📫 How to ***Reach Me*** <a href="mailto:salman.iyad@ieee.org" style="color: #3498db; font-weight: bold;">Salman.Iyad@ieee.org</a> ***Or*** <a href="mailto:eng.salmaniyad@gmail.com" style="color: #3498db; font-weight: bold;">eng.salmaniyad@gmail.com</a> 
+- 📫 How to ***Reach Me*** <a href="mailto:salman.iyad@ieee.org" style="font-weight: bold;">Salman.Iyad@ieee.org</a> ***Or*** <a href="mailto:eng.salmaniyad@gmail.com" style="font-weight: bold;">eng.salmaniyad@gmail.com</a> 
 
-- 🕸️ Check out ***My Portfolio*** <a href="https://salmaniyad.vercel.app" style="color: #27ae60; font-weight: bold;">Portfolio</a> ***Or*** <a href="https://salman.is-a.dev" style="color: #27ae60; font-weight: bold;">My Digital Space</a>
+- 🕸️ Check out ***My Portfolio*** <a href="https://salmaniyad.vercel.app" style="font-weight: bold;">Portfolio</a> ***Or*** <a href="https://salman.is-a.dev" style="font-weight: bold;">My Digital Space</a>
+
+- 💬 Follow me on <a href="https://linkedin.com/in/salmaniyad" style="font-weight: bold;">LinkedIn</a> 
 
 <br style="height: 40px" />
 
@@ -43,7 +45,7 @@
 
 <!-- 🏆 Trophies & Achievements -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SalmanIyad&theme=algolia&no-frame=true&no-bg=true&column=7&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SalmanIyad&theme=onestar&no-frame=true&no-bg=true&column=7&row=1" alt="GitHub Trophies" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=🔻%20Check%20Out%20My%20Pinned%20Repos%20🔻&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=36&fontAlignY=71&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=🔻%20Check%20Out%20My%20Pinned%20Repos%20🔻&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=36&fontAlignY=75&section=footer)
